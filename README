@@ -1,0 +1,9 @@
+# Overview
+
+This webserver provides following functionalities:
+* user authentication
+* password reset
+* reconnection required if no action for certain period
+* file transfer
+* file correction (for firmware update)
+* RESTful API handler
